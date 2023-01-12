@@ -1,0 +1,27 @@
+.dropdown-menu {
+  max-height: 150px;
+  overflow-y: auto;
+  margin-bottom: 50px;
+}
+.height {
+  height: 70vh;
+}
+.width {
+  width: 25vw;
+}
+.widthC {
+  width: calc(6em + 6vw);
+}
+.heightI1 {
+  height: 30vh;
+}
+.heightI2 {
+  height: 30vh;
+}
+.button {
+  margin-top: -30vh;
+  height: 10vh;
+}
+.mar-t {
+  margin-top: 2vh;
+}
